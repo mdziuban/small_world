@@ -22,4 +22,5 @@ public class RedBloodCellSpawner : MonoBehaviour
             bloodCellSpawn.AddRelativeForce(Vector3.forward * speed);
         }
     }
+
 }
